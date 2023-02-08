@@ -48,7 +48,6 @@ def collect_data():
                 "qualification": vacancy_qualification,
                 "salary": vacancy_salary,
                 "adding_time": adding_time,
-                #"skills": skills,
                 "link": "https://career.habr.com"+vacancy.get("href")
                 }
             )
