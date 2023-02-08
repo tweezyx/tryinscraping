@@ -1,0 +1,3292 @@
+{
+    "list": [
+        {
+            "id": 1000119652,
+            "href": "/vacancies/1000119652",
+            "title": "Python-разработчик",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-07T22:51:41+03:00",
+                "title": "7 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "kamtor",
+                "href": "/companies/kamtor",
+                "title": "Kamtor",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/005/996/1/logo/medium_156005c5baf40ff51a327f1c34f2975b.jpg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 60000,
+                "to": 80000,
+                "currency": "rur",
+                "formatted": "от 60 000 до 80 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Бэкенд разработчик",
+                    "href": "/vacancies?s%5B%5D=2"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Git",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=947"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=537"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                },
+                {
+                    "title": "Санкт-Петербург",
+                    "href": "/vacancies?city_id=679"
+                },
+                {
+                    "title": "Новосибирск",
+                    "href": "/vacancies?city_id=717"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118105,
+            "href": "/vacancies/1000118105",
+            "title": "Python-разработчик",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-17T16:17:22+03:00",
+                "title": "17 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "sibdev",
+                "href": "/companies/sibdev",
+                "title": "Sibdev",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/006/284/5/logo/medium_040bb34dca00b60dcea35fa1400e28b1.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2021 году",
+                    "value": "4.07",
+                    "href": "/companies/sibdev/scores/2021"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 80000,
+                "to": 120000,
+                "currency": "rur",
+                "formatted": "от 80 000 до 120 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Бэкенд разработчик",
+                    "href": "/vacancies?s%5B%5D=2"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Django",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1075"
+                },
+                {
+                    "title": "Celery",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=488"
+                },
+                {
+                    "title": "Redis",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000117547,
+            "href": "/vacancies/1000117547",
+            "title": "Разработчик Python/Django",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-13T06:12:25+03:00",
+                "title": "13 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "v2grp",
+                "href": "/companies/v2grp",
+                "title": "V2 Group",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/017/4/logo/medium_fe8ab7439b61cbc812b486027115bfcb.jpeg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Десктоп разработчик",
+                    "href": "/vacancies?s%5B%5D=1"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Oracle",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=386"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Кемерово",
+                    "href": "/vacancies?city_id=701"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000116947,
+            "href": "/vacancies/1000116947",
+            "title": "Backend разработчик (Python, PostgreSQL)",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-30T18:17:07+03:00",
+                "title": "30 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "magnit",
+                "href": "/companies/magnit",
+                "title": "Магнит",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/724/649/103/logo/medium_509a23f8a8f83bd673ee1e5ffe3e8198.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2021 году",
+                    "value": "3.8",
+                    "href": "/companies/magnit/scores/2021"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Бэкенд разработчик",
+                    "href": "/vacancies?s%5B%5D=2"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=537"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "JavaScript",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=264"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Краснодар",
+                    "href": "/vacancies?city_id=707"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119290,
+            "href": "/vacancies/1000119290",
+            "title": "Разработчик ПО (Junior)",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-01T16:24:18+03:00",
+                "title": "1 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "astralinux",
+                "href": "/companies/astralinux",
+                "title": "ГК Астра",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/221/6/logo/medium_9b118dcbc49820342b0f7e2b4a87f904.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.77",
+                    "href": "/companies/astralinux/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Бэкенд разработчик",
+                    "href": "/vacancies?s%5B%5D=2"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Docker",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1067"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118989,
+            "href": "/vacancies/1000118989",
+            "title": "Flutter разработчик",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-26T09:45:01+03:00",
+                "title": "26 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "digitalsolutions",
+                "href": "/companies/digitalsolutions",
+                "title": "Газпромнефть-Цифровые решения",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/295/185/logo/medium_d42094e0b54cfed461aaebb8fe319526.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2020 году",
+                    "value": "3.69",
+                    "href": "/companies/digitalsolutions/scores/2020"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Разработчик мобильных приложений",
+                    "href": "/vacancies?s%5B%5D=5"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Flutter",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1218"
+                },
+                {
+                    "title": "MongoDB",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=229"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Санкт-Петербург",
+                    "href": "/vacancies?city_id=679"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000103571,
+            "href": "/vacancies/1000103571",
+            "title": "Web разработчик backend (Django)",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-18T10:04:11+03:00",
+                "title": "18 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "bstdigital",
+                "href": "/companies/bstdigital",
+                "title": "BST Digital",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/006/158/8/logo/medium_9109360905eca2399ddfec800079e9fd.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 60000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 60 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Бэкенд разработчик",
+                    "href": "/vacancies?s%5B%5D=2"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Django",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1075"
+                },
+                {
+                    "title": "Базы данных",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=30"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": -1,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": -1,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": -1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000117546,
+            "href": "/vacancies/1000117546",
+            "title": "Devops инженер",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-13T05:54:14+03:00",
+                "title": "13 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "v2grp",
+                "href": "/companies/v2grp",
+                "title": "V2 Group",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/017/4/logo/medium_fe8ab7439b61cbc812b486027115bfcb.jpeg"
+                },
+                "rating": null
+            },
+            "employment": null,
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Девопс инженер",
+                    "href": "/vacancies?s%5B%5D=22"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "Oracle",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=386"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Кемерово",
+                    "href": "/vacancies?city_id=701"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118267,
+            "href": "/vacancies/1000118267",
+            "title": "Системный администратор Unix/Linux (Инженер по сопровождению),DevOps",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-01T13:24:46+03:00",
+                "title": "1 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "megafon",
+                "href": "/companies/megafon",
+                "title": "МегаФон",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/771/607/661/logo/medium_f7e95e28a457ea9ee7d854a61491eaf5.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2021 году",
+                    "value": "4.01",
+                    "href": "/companies/megafon/scores/2021"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Системный администратор",
+                    "href": "/vacancies?s%5B%5D=17"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Самара",
+                    "href": "/vacancies?city_id=728"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119327,
+            "href": "/vacancies/1000119327",
+            "title": "Ментор на курс «Продуктовая Аналитика»",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-01T10:53:22+03:00",
+                "title": "1 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "skillfactory",
+                "href": "/companies/skillfactory",
+                "title": "SkillFactory",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/006/839/2/logo/medium_f0e967fb03055d29a3f5d70aa99fd7cb.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.15",
+                    "href": "/companies/skillfactory/scores/2022"
+                }
+            },
+            "employment": "part_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Продуктовый аналитик",
+                    "href": "/vacancies?s%5B%5D=97"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Продуктовый маркетинг",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=997"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000117853,
+            "href": "/vacancies/1000117853",
+            "title": "Инженер по тестированию межсетевого экрана /QA Engineer NGFW",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-16T14:11:14+03:00",
+                "title": "16 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "numatech",
+                "href": "/companies/numatech",
+                "title": "Нуматех",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/008/188/4/logo/medium_90d9fde53034d121a744bf1082e01b39.png"
+                },
+                "rating": null
+            },
+            "employment": null,
+            "salary": {
+                "from": 100000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 100 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Системный администратор",
+                    "href": "/vacancies?s%5B%5D=17"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "Bash",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=549"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119500,
+            "href": "/vacancies/1000119500",
+            "title": "Младший аналитик данных",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-03T17:47:33+03:00",
+                "title": "3 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "bellintegrator",
+                "href": "/companies/bellintegrator",
+                "title": "Bell Integrator",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/431/936/411/logo/medium_2dd003e4f8c3fcb5dbc6ceb9876c3c40.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.6",
+                    "href": "/companies/bellintegrator/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Аналитик по данным",
+                    "href": "/vacancies?s%5B%5D=43"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=537"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119479,
+            "href": "/vacancies/1000119479",
+            "title": "Менеджер-аналитик по запуску целевых кампаний (Глобальные рынки)",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-03T16:15:43+03:00",
+                "title": "3 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "bellintegrator",
+                "href": "/companies/bellintegrator",
+                "title": "Bell Integrator",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/431/936/411/logo/medium_2dd003e4f8c3fcb5dbc6ceb9876c3c40.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.6",
+                    "href": "/companies/bellintegrator/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Маркетинговый аналитик",
+                    "href": "/vacancies?s%5B%5D=53"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Маркетинговые исследования",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1042"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Qlik Sense",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1285"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000111713,
+            "href": "/vacancies/1000111713",
+            "title": "Junior Data Еngineer Управления модельных рисков и валидации",
+            "isMarked": true,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-01T17:27:10+03:00",
+                "title": "1 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "vtb",
+                "href": "/companies/vtb",
+                "title": "Банк ВТБ",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/044/625/213/logo/medium_ab37845c7599a9636e0f146386a51f73.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2020 году",
+                    "value": "3.37",
+                    "href": "/companies/vtb/scores/2020"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Инженер по данным",
+                    "href": "/vacancies?s%5B%5D=76"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": -1,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118682,
+            "href": "/vacancies/1000118682",
+            "title": "Младший продуктовый аналитик в Одноклассники",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-03T17:31:16+03:00",
+                "title": "3 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "vk",
+                "href": "/companies/vk",
+                "title": "VK",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/828/504/340/logo/medium_d26383be27f2dec6f43f0904041c94a8.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.68",
+                    "href": "/companies/vk/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Продуктовый аналитик",
+                    "href": "/vacancies?s%5B%5D=97"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000117783,
+            "href": "/vacancies/1000117783",
+            "title": "Инженер-программист АСУТП",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-16T09:23:12+03:00",
+                "title": "16 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "plasticenterprise",
+                "href": "/companies/plasticenterprise",
+                "title": "Пластик Энтерпрайз",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/008/255/1/logo/medium_b6edfe9f89e502fdd7e918b5591c8427.jpg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 20000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 20 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Инженер встраиваемых систем",
+                    "href": "/vacancies?s%5B%5D=7"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "VBScript",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=234"
+                },
+                {
+                    "title": "Pascal",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=787"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Новочеркасск",
+                    "href": "/vacancies?city_id=3361"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000117526,
+            "href": "/vacancies/1000117526",
+            "title": "Системный аналитик",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-12T17:44:06+03:00",
+                "title": "12 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "tenchat",
+                "href": "/companies/tenchat",
+                "title": "TenChat",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/367/7/logo/medium_4832fff10d6a003591cc8ed605ffdf76.jpg"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 80000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 80 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Системный аналитик",
+                    "href": "/vacancies?s%5B%5D=41"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Системный анализ",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=798"
+                },
+                {
+                    "title": "Системная аналитика",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1052"
+                },
+                {
+                    "title": "Jira",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1045"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Java",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1012"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118711,
+            "href": "/vacancies/1000118711",
+            "title": "DevOps-инженер",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-23T09:35:45+03:00",
+                "title": "23 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "skbkontur",
+                "href": "/companies/skbkontur",
+                "title": "Контур",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/956/306/368/logo/medium_40d848adf65ec46b5ef2c8eaf10405bd.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2021 году",
+                    "value": "4.13",
+                    "href": "/companies/skbkontur/scores/2021"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Девопс инженер",
+                    "href": "/vacancies?s%5B%5D=22"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Администрирование Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=982"
+                },
+                {
+                    "title": "Администрирование Windows",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=906"
+                },
+                {
+                    "title": "Bash",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=549"
+                },
+                {
+                    "title": "Powershell",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=75"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Centos",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=126"
+                },
+                {
+                    "title": "Kubernetes",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1207"
+                },
+                {
+                    "title": "Ansible",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=941"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1067"
+                },
+                {
+                    "title": "Grafana",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1270"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118871,
+            "href": "/vacancies/1000118871",
+            "title": "Специалист VoIP-систем (IP-телефонии)",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-26T09:27:10+03:00",
+                "title": "26 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "jcat",
+                "href": "/companies/jcat",
+                "title": "JCat",
+                "accredited": false,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/005/110/1/logo/medium_80689d61ae756aa41b979f56e3ec9260.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 90000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 90 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Менеджер технической поддержки",
+                    "href": "/vacancies?s%5B%5D=45"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Asterisk",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=785"
+                },
+                {
+                    "title": "MySQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=713"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=537"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "Debian",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=91"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119107,
+            "href": "/vacancies/1000119107",
+            "title": "Эксперт мониторинга киберугроз",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-03T12:49:46+03:00",
+                "title": "3 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "megafon",
+                "href": "/companies/megafon",
+                "title": "МегаФон",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/771/607/661/logo/medium_f7e95e28a457ea9ee7d854a61491eaf5.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2021 году",
+                    "value": "4.01",
+                    "href": "/companies/megafon/scores/2021"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Администратор защиты",
+                    "href": "/vacancies?s%5B%5D=21"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "SIEM",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1408"
+                },
+                {
+                    "title": "Администрирование Windows",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=906"
+                },
+                {
+                    "title": "Информационная безопасность",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=242"
+                },
+                {
+                    "title": "Сетевая безопасность",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=120"
+                },
+                {
+                    "title": "Active directory",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=38"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Санкт-Петербург",
+                    "href": "/vacancies?city_id=679"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000058028,
+            "href": "/vacancies/1000058028",
+            "title": "Junior+/Middle Clojure Developer",
+            "isMarked": false,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-01-19T12:31:40+03:00",
+                "title": "19 января"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "health-samurai",
+                "href": "/companies/health-samurai",
+                "title": "Health Samurai",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/005/720/0/logo/medium_c44f1c6ff2f0e96ab8bdfe98cf9f78a2.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 100000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 100 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Фулстек разработчик",
+                    "href": "/vacancies?s%5B%5D=4"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "JavaScript",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=264"
+                },
+                {
+                    "title": "Node.js",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=12"
+                },
+                {
+                    "title": "Ruby",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1081"
+                },
+                {
+                    "title": "Ruby on Rails",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1080"
+                },
+                {
+                    "title": "Python",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=446"
+                },
+                {
+                    "title": "Clojure",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=334"
+                },
+                {
+                    "title": "PostgreSQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=537"
+                },
+                {
+                    "title": "Git",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=947"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1067"
+                },
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                }
+            ],
+            "media": null,
+            "locations": null,
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": -1,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 1,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000119524,
+            "href": "/vacancies/1000119524",
+            "title": "Linux administrator/Support engineer 2L",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-06T10:23:47+03:00",
+                "title": "6 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "sbertech",
+                "href": "/companies/sbertech",
+                "title": "СберТех",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/999/989/988/logo/medium_3042e13e18a6ef5fd303847f6d2651a8.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2020 году",
+                    "value": "3.76",
+                    "href": "/companies/sbertech/scores/2020"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Системный администратор",
+                    "href": "/vacancies?s%5B%5D=17"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "Bash",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=549"
+                },
+                {
+                    "title": "Kubernetes",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1207"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1067"
+                },
+                {
+                    "title": "CI/CD",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1173"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118184,
+            "href": "/vacancies/1000118184",
+            "title": "Аналитик",
+            "isMarked": false,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-08T10:28:50+03:00",
+                "title": "8 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "data-platform",
+                "href": "/companies/data-platform",
+                "title": "Платформа",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/889/9/logo/medium_77667dc721c25a6087b5e5f6dfa40e2a.png"
+                },
+                "rating": null
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": 70000,
+                "to": null,
+                "currency": "rur",
+                "formatted": "от 70 000 ₽"
+            },
+            "divisions": [
+                {
+                    "title": "Аналитик по данным",
+                    "href": "/vacancies?s%5B%5D=43"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "MySQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=713"
+                },
+                {
+                    "title": "SQL",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=322"
+                },
+                {
+                    "title": "Базы данных",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=30"
+                },
+                {
+                    "title": "Большие данные",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=29"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Санкт-Петербург",
+                    "href": "/vacancies?city_id=679"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000104440,
+            "href": "/vacancies/1000104440",
+            "title": "Linux-инженер в сектор виртуализации",
+            "isMarked": true,
+            "remoteWork": true,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-03T15:38:11+03:00",
+                "title": "3 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "astralinux",
+                "href": "/companies/astralinux",
+                "title": "ГК Астра",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/007/221/6/logo/medium_9b118dcbc49820342b0f7e2b4a87f904.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.77",
+                    "href": "/companies/astralinux/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Системный администратор",
+                    "href": "/vacancies?s%5B%5D=17"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Администрирование Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=982"
+                },
+                {
+                    "title": "VirtualBox",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1085"
+                },
+                {
+                    "title": "KVM",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=125"
+                },
+                {
+                    "title": "Zabbix",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=966"
+                },
+                {
+                    "title": "Docker",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=1067"
+                },
+                {
+                    "title": "Ansible",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=941"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Москва",
+                    "href": "/vacancies?city_id=678"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        },
+        {
+            "id": 1000118517,
+            "href": "/vacancies/1000118517",
+            "title": "DevOps инженер",
+            "isMarked": true,
+            "remoteWork": false,
+            "salaryQualification": {
+                "title": "Младший (Junior)",
+                "href": "/vacancies?qid=3"
+            },
+            "publishedDate": {
+                "date": "2023-02-04T23:57:53+03:00",
+                "title": "4 февраля"
+            },
+            "location": null,
+            "company": {
+                "alias_name": "sber",
+                "href": "/companies/sber",
+                "title": "Сбер",
+                "accredited": true,
+                "logo": {
+                    "src": "https://habrastorage.org/getpro/moikrug/uploads/company/100/006/341/2/logo/medium_ec0ed33f5cb160c20cdc1ba499a75d2b.png"
+                },
+                "rating": {
+                    "title": "Средняя оценка компании в 2022 году",
+                    "value": "4.02",
+                    "href": "/companies/sber/scores/2022"
+                }
+            },
+            "employment": "full_time",
+            "salary": {
+                "from": null,
+                "to": null,
+                "currency": null,
+                "formatted": ""
+            },
+            "divisions": [
+                {
+                    "title": "Девопс инженер",
+                    "href": "/vacancies?s%5B%5D=22"
+                }
+            ],
+            "skills": [
+                {
+                    "title": "Linux",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=821"
+                },
+                {
+                    "title": "Ansible",
+                    "href": "/vacancies?rel=nofollow&skills%5B%5D=941"
+                }
+            ],
+            "media": null,
+            "locations": [
+                {
+                    "title": "Ростов-на-Дону",
+                    "href": "/vacancies?city_id=726"
+                }
+            ],
+            "favorite": false,
+            "archived": false,
+            "hidden": false,
+            "can_edit": false,
+            "reactions": {
+                "items": [
+                    {
+                        "name": "arrow",
+                        "title": "arrow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f3af.svg"
+                    },
+                    {
+                        "name": "bang",
+                        "title": "bang",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4a5.svg"
+                    },
+                    {
+                        "name": "cash",
+                        "title": "cash",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f4b0.svg"
+                    },
+                    {
+                        "name": "boom",
+                        "title": "boom",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f389.svg"
+                    },
+                    {
+                        "name": "fire",
+                        "title": "fire",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f525.svg"
+                    },
+                    {
+                        "name": "glass",
+                        "title": "glass",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/1f942.svg"
+                    },
+                    {
+                        "name": "snow",
+                        "title": "snow",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2744.svg"
+                    },
+                    {
+                        "name": "heart",
+                        "title": "heart",
+                        "hasReacted": false,
+                        "count": 0,
+                        "image": "/images/emoji/2764.svg"
+                    }
+                ],
+                "fallbackHref": "https://career.habr.com/users/auth/tmid"
+            }
+        }
+    ],
+    "meta": {
+        "totalResults": 30,
+        "perPage": 25,
+        "currentPage": 1,
+        "totalPages": 2
+    }
+}
