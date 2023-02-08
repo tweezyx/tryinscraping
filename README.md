@@ -1,3 +1,3 @@
 # tryinscraping
-attempt to try the scraping
-just a try, nothing more
+Attempt to try the scraping.
+  Just a try, nothing more.
